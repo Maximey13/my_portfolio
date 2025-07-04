@@ -24,7 +24,7 @@ export default function Header() {
         <div className="md:w-1/2 mt-10 md:mt-0 flex justify-center items-center">
           {/* Ajout d'une photo de profil */}
           <img
-            src="/images/profile.jpg"
+            src="/profile.jpg"
             alt="Maxime You"
             className="w-64 h-64 rounded-full shadow-lg object-cover"
           />
